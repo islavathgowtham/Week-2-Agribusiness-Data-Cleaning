@@ -1,0 +1,14 @@
+record_id,state,crop,observation_date,yield_kg_per_acre,temperature_c,rainfall_mm,input_cost_inr_per_acre
+A001,Telangana,Rice,2026-06-01,1000,28.5,42,12000
+A002,telangana ,Maize,2026-06-03,850,26.0,38,9800
+A003,Andhra Pradesh,Cotton,2026-06-04,700,31.2,55,15000
+A004,Karnataka,Rice,2026-06-05,1200,,45,13200
+A005,Telangana,Chilli,2026-06-06,500,33.0,70,17500
+A006,Andhra Pradesh,Maize,2026-06-07,900,29.1,,11000
+A007,Karnataka,Cotton,2026-06-08,650,30.5,52,14200
+A008,Telangana,Rice,2026-06-09,-200,27.8,44,11800
+A009,Andhra Pradesh,Chilli,2026-06-10,450,34.2,85,21000
+A010,Karnataka,Maize,2026-06-11,800,28.0,40,10500
+A011,Telangana,Cotton,2026-06-12,750,30.1,180,16000
+A012,Andhra Pradesh,Rice,2026-06-13,1100,27.2,43,12500
+A012,Andhra Pradesh,Rice,2026-06-13,1100,27.2,43,12500
